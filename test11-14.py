@@ -22,9 +22,7 @@ def nood28():
         print("autumn")
     else:
         print("winter")
-#多组输入a+b  ||
-def nood29():
-    a=
+
 if __name__ == '__main__':
-    # nood27()
-    # nood28()
+         nood27()
+         nood28()
